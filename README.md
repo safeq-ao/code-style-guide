@@ -28,7 +28,7 @@ Todos os arquivos de código fonte dos projetos devem estar num repositório [Gi
 
 ## Nome dos arquivos e estrutura de pastas
 
-![Structure and Naming](/images/folder-tree.png)
+![folder-tree](https://user-images.githubusercontent.com/81193129/203549512-60da80eb-189e-42f8-9c84-730d0bdcf9c8.png)
 
 Os nomes das pastas devem estar em _lowercase_ e devem ser separados por traços (-).
 
@@ -63,7 +63,11 @@ Dentro de **src**:
 ├── index.html
 ```
 
+![folder struct](https://user-images.githubusercontent.com/81193129/203551642-239b5b5d-d5cf-492b-86b0-4ba5d56bbbbd.png)
+
 ## Guia de estilo Git
+
+![branching](https://user-images.githubusercontent.com/81193129/203550415-de79eeb8-634c-42b1-8ef0-be99483fb4f1.png)
 
 Este é um guia de estilo Git inspirado pelo [How to Get Your Change Into the Linux
 Kernel](https://www.kernel.org/doc/Documentation/process/submitting-patches.rst),
@@ -277,6 +281,9 @@ Ter um bom padrão para criar commits e se atentar a ele faz com que trabalhar c
 
 ## Documentação dos projetos
 
+![documentation](https://user-images.githubusercontent.com/81193129/203550933-55c3c82f-c792-4c97-b7c6-fe02c3fecdb8.png)
+
+
 - Use esse [modelo](./README.modelo.md) para `README.md`, sinta-se a vontade para adicionar secções que achar necessárias.
 - Para projetos com mais de um repositório adicione todos os respetivos links nos `README.md` de todos os projetos.
 - Mantenha o `README.md` enquanto o projeto evolui.
@@ -288,7 +295,8 @@ Ter um bom padrão para criar commits e se atentar a ele faz com que trabalhar c
 
 ## Testes
 
-![Testes](/images/testing.png)
+![testing](https://user-images.githubusercontent.com/81193129/203550838-a222f571-62db-4f44-b6fe-5d2ae7e6c207.png)
+
 
 - Tenha um ambiente the `test` se necessário
 
@@ -335,7 +343,7 @@ Ter um bom padrão para criar commits e se atentar a ele faz com que trabalhar c
 
 ## Estilo de código
 
-![Code style](/images/code-style.png)
+![code-style](https://user-images.githubusercontent.com/81193129/203551013-8cb5ceb3-2c09-4893-befd-968e2064cdd2.png)
 
 Use as guias de estilo no repositório para cada linguagem em projetos.
 
