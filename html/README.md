@@ -25,7 +25,9 @@ Recomendamos o [Visual Studio Code](https://code.visualstudio.com/) como editor 
 
 Se já usa o VSCode inicie sempre os projetos usando o prefixo `!` para gerar a base do html.
 
-adicionar duas imagens
+![html](https://user-images.githubusercontent.com/81193129/203551972-b8ab8039-e9ee-4b52-b844-f31f4550f177.png)
+
+![html1](https://user-images.githubusercontent.com/81193129/203551904-1e55491e-78e0-4f39-8e89-088d9ba28fd7.png)
 
 ## Formatador
 
